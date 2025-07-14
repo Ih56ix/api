@@ -1,4 +1,5 @@
-{
+[
+  {
   "id": 1,
   "siteName": "Lite Bits",
   "siteIconLink": "https://i.ibb.co/G3HkGSs2/k-Wd-Z6-Lk-J-200x200.jpg",                        
@@ -8,4 +9,5 @@
   "personalRating": 5,
   "tags": ["Sats", "Faucet"],
   "badges": ["Best"]
-}
+  }
+]
