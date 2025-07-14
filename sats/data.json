@@ -1,7 +1,7 @@
 [
   {
   "id": 1,
-  "siteName": "Lite Bits",
+  "siteName": "LiteBits",
   "siteIconLink": "https://i.ibb.co/G3HkGSs2/k-Wd-Z6-Lk-J-200x200.jpg",                        
   "siteDescription": "Earn Sats Every 10 second.",
   "affiliateLink": "https://dub.sh/litebits",
@@ -9,5 +9,16 @@
   "personalRating": 5,
   "tags": ["Sats", "Faucet"],
   "badges": ["Best"]
+  },
+  {
+  "id": 2,
+  "siteName": "Speed Wallet",
+  "siteIconLink": "",                        
+  "siteDescription": "Best Lightning Wallet.",
+  "affiliateLink": "<https://dub.sh/speed-wallet>",
+  "readMoreLink": "",                         
+  "personalRating": 4.5,
+  "tags": ["Lightning Network", "Wallet","Casino"],
+  "badges": ["Best Wallet"]
   }
 ]
