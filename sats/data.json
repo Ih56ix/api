@@ -15,7 +15,7 @@
   "siteName": "Speed Wallet",
   "siteIconLink": "",                        
   "siteDescription": "Best Lightning Wallet.",
-  "affiliateLink": "<https://dub.sh/speed-wallet>",
+  "affiliateLink": "https://dub.sh/speed-wallet",
   "readMoreLink": "",                         
   "personalRating": 4.5,
   "tags": ["Lightning Network", "Wallet","Casino"],
