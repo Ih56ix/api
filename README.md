@@ -1,2 +1,2 @@
-# api
-Static Api For Earn Section of Zx Games
+# Data
+**Data in json format for my projects**
