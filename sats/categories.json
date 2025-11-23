@@ -28,6 +28,14 @@
         "color": "#EF4444",
         "order": 3
       },
+       {
+        "id": "lightning",
+        "name": "Lightning Network",
+        "description": "Bitcoin Lightning Network Supported ",
+        "icon": "https://ih56ix.github.io/api/sats/icons/sats/zap.svg",
+        "color": "#FBBF24",
+        "order": 5
+      },
       {
         "id": "onchain",
         "name": "Bitcoin Onchain",
@@ -35,14 +43,6 @@
         "icon": "https://ih56ix.github.io/api/sats/icons/sats/bitcoin.svg",
         "color": "#3B82F6",
         "order": 4
-      },
-      {
-        "id": "lightning",
-        "name": "Lightning Network",
-        "description": "Bitcoin Lightning Network Supported ",
-        "icon": "https://ih56ix.github.io/api/sats/icons/sats/zap.svg",
-        "color": "#FBBF24",
-        "order": 5
       }
     ]
   }
