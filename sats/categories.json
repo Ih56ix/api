@@ -34,7 +34,7 @@
         "description": "Bitcoin Lightning Network Supported ",
         "icon": "https://ih56ix.github.io/api/sats/icons/sats/zap.svg",
         "color": "#FBBF24",
-        "order": 5
+        "order": 4
       },
       {
         "id": "onchain",
@@ -42,7 +42,7 @@
         "description": "Bitcoin onchain support",
         "icon": "https://ih56ix.github.io/api/sats/icons/sats/bitcoin.svg",
         "color": "#3B82F6",
-        "order": 4
+        "order": 5
       }
     ]
   }
