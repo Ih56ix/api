@@ -7,7 +7,7 @@
   "affiliateLink": "https://dub.sh/litebits",
   "readMoreLink": "",                         
   "personalRating": 5,
-  "tags": ["Sats", "Faucet"],
+  "tags": ["lightning", "faucet"],
   "badges": ["Best"]
   },
   {
@@ -18,7 +18,7 @@
   "affiliateLink": "https://dub.sh/speed-wallet",
   "readMoreLink": "",                         
   "personalRating": 4.5,
-  "tags": ["Lightning Network", "Wallet","Casino"],
-  "badges": ["Best Wallet"]
+  "tags": ["lightning", "wallet","casino"],
+  "badges": ["Best"]
   }
 ]
