@@ -1,1 +1,49 @@
-
+[
+  {
+    "id": "sats",
+    "name": "Sats Links",
+    "description": "Earn Sats & Discover Lightning Apps",
+    "categories": [
+      {
+        "id": "faucet",
+        "name": "Faucets",
+        "description": "Faucets for earning satoshis",
+        "icon": "icons/sats/faucet.svg",
+        "color": "#F7931A",
+        "order": 1
+      },
+      {
+        "id": "wallet",
+        "name": "Wallet",
+        "description": "Lightning wallets",
+        "icon": "icons/sats/wallets.svg",
+        "color": "#8B5CF6",
+        "order": 2
+      },
+      {
+        "id": "casino",
+        "name": "Casino",
+        "description": "Gaming and gambling",
+        "icon": "icons/sats/casino.svg",
+        "color": "#EF4444",
+        "order": 3
+      },
+      {
+        "id": "onchain",
+        "name": "Bitcoin Onchain",
+        "description": "Bitcoin onchain support",
+        "icon": "icons/sats/onchain.svg",
+        "color": "#3B82F6",
+        "order": 4
+      },
+      {
+        "id": "lightning",
+        "name": "Lightning Network",
+        "description": "Bitcoin Lightning Network Supported ",
+        "icon": "icons/sats/ln.svg",
+        "color": "#FBBF24",
+        "order": 5
+      }
+    ]
+  }
+]
