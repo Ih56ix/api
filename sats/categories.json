@@ -8,7 +8,7 @@
         "id": "faucet",
         "name": "Faucets",
         "description": "Faucets for earning satoshis",
-        "icon": "icons/sats/faucet.svg",
+        "icon": "https://ih56ix.github.io/api/sats/icons/sats/faucet.svg",
         "color": "#F7931A",
         "order": 1
       },
@@ -16,7 +16,7 @@
         "id": "wallet",
         "name": "Wallet",
         "description": "Lightning wallets",
-        "icon": "icons/sats/wallets.svg",
+        "icon": "https://ih56ix.github.io/api/sats/icons/sats/wallet-minimal.svg",
         "color": "#8B5CF6",
         "order": 2
       },
@@ -24,7 +24,7 @@
         "id": "casino",
         "name": "Casino",
         "description": "Gaming and gambling",
-        "icon": "icons/sats/casino.svg",
+        "icon": "https://ih56ix.github.io/api/sats/icons/sats/coins.svg",
         "color": "#EF4444",
         "order": 3
       },
@@ -32,7 +32,7 @@
         "id": "onchain",
         "name": "Bitcoin Onchain",
         "description": "Bitcoin onchain support",
-        "icon": "icons/sats/onchain.svg",
+        "icon": "https://ih56ix.github.io/api/sats/icons/sats/bitcoin.svg",
         "color": "#3B82F6",
         "order": 4
       },
@@ -40,7 +40,7 @@
         "id": "lightning",
         "name": "Lightning Network",
         "description": "Bitcoin Lightning Network Supported ",
-        "icon": "icons/sats/ln.svg",
+        "icon": "https://ih56ix.github.io/api/sats/icons/sats/zap.svg",
         "color": "#FBBF24",
         "order": 5
       }
